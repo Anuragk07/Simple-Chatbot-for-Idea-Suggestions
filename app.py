@@ -3,7 +3,7 @@ import streamlit as st
 from langchain_groq import ChatGroq
 
 # Load API Key from environment variables
-API_KEY = os.getenv("GROQ_API_KEY", "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")
+API_KEY = os.getenv("GROQ_API_KEY", "Your_API_Key")
 
 # Initialize the Llama model with LangChain's ChatGroq
 llm = ChatGroq(
