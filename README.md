@@ -1,7 +1,3 @@
-Here’s a professional **README** format for your chatbot project:  
-
----
-
 # **Simple Chatbot for Idea Suggestions**  
 
 ## **Project Overview**  
