@@ -19,7 +19,7 @@ This project is a text-based chatbot that helps users generate creative ideas fo
 ---
 
 ## **Demo Video**  
-[Watch the demo here](<insert_your_video_link_here>)  
+[Watch the demo here](<[insert_your_video_link_here](https://drive.google.com/file/d/1LLCfeBzmRkQvYeG1mRYGKcb1AQmaipnK/view?usp=sharing)>)  
 
 ---
 
